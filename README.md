@@ -2,6 +2,8 @@
 
 Welcome to my Pong game! 🎮 This project recreates the classic Atari arcade game using HTML 📝, CSS 🎨, and JavaScript 💻 with HTML5 Canvas 🖼️.
 
+Project Demo: https://nidhiupman568.github.io/PONG-GAME/
+
 ## Features ✨
 
 - **Smooth Gameplay**: Utilizes a game loop for continuous updates and smooth animation 🔄🎥.
